@@ -1,0 +1,29 @@
+name: Gong Ka Talk
+favicon: null
+layout_spectrum: 0.5311550297774374
+typography_spectrum: 0.7138290421571583
+title: Chinese Boxing Institute International News and Things
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8067457042634487
+  lightness: 0.61610964871943
+  saturation: 0.2956238342449069
+  rhythmicContrast: 0.10510760941542685
+purpose: []
